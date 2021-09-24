@@ -1,4 +1,4 @@
-module otelgorm
+module github.com/jojo-jie/otelgorm
 
 go 1.17
 
